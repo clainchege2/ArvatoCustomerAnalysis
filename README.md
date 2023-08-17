@@ -35,4 +35,3 @@ This project is licensed under the MIT License.
 
 ---
 
-Let me know if this works or if you need any further adjustments!
