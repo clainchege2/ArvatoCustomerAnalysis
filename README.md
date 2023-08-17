@@ -2,6 +2,8 @@
 
 This project focuses on identifying different segments of customers based on the provided data. By following various data preprocessing and clustering techniques, the aim is to get insights into the characteristics of different customer groups.
 
+##### Use the ipynb file or open the html file on you broswer
+
 ## Table of Contents
 
 1. **Step 0: Load the Data**
